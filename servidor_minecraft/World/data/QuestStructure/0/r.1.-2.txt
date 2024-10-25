@@ -1,0 +1,3 @@
+RLCraft_SmallUndergroundSkeleton,903,911,-1076,-1068
+ShrineSmallAir,929,937,-1086,-1078
+AbandonedWoodTower,654,690,-1074,-1044

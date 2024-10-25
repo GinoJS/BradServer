@@ -1,0 +1,14 @@
+StonePlantMound,-844,-839,-526,-521
+StonePlantMound,-760,-755,-600,-595
+StoneBoulder,-780,-771,-577,-568
+StonePlantMound4,-889,-882,-604,-597
+RLCraft_BasicSpider,-918,-918,-551,-551
+RLCraft_UndergroundRuin1,-924,-915,-554,-545
+StonePlantMound,-930,-925,-563,-558
+UndergroundCultChamber,-971,-939,-544,-502
+StonePlantMound3,-973,-962,-617,-608
+UndergroundCrypt,-970,-956,-659,-631
+P_SpookyHouse,-795,-769,-667,-627
+StonePlantMound,-940,-935,-647,-642
+StoneBoulder,-955,-946,-690,-681
+SmallWoodenCottage,-623,-612,-803,-795

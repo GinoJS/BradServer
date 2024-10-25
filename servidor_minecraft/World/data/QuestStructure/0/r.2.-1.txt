@@ -1,0 +1,16 @@
+StoneBoulder,1039,1048,-802,-793
+StoneBoulder,1044,1053,-823,-814
+StoneLeafMound,1063,1072,-793,-786
+P_VillageLibrary,1108,1127,-853,-837
+VillageTriplets,1118,1132,-890,-876
+StonePlantMound,1133,1138,-845,-840
+RLCraft_Vineyard,1142,1162,-875,-847
+P_VillageFarmhouse,1172,1184,-889,-877
+VillageChurch,1172,1184,-872,-846
+VillageLargeLibrary,1172,1191,-913,-893
+SmallAbandonedMine,1063,1078,-720,-695
+RLCraft_BasicSpider,1097,1097,-683,-683
+RLCraft_UndergroundRuin1,1091,1100,-689,-680
+RLCraft_DecentCaveSpider,1113,1113,-656,-656
+RLCraft_UndergroundRuin2,1108,1118,-658,-651
+SmallWoodenCottage,1035,1046,-625,-617

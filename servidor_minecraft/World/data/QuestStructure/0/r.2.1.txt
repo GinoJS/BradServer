@@ -1,0 +1,15 @@
+StonePlantBoulder,1040,1050,693,703
+StonePlantMound1,1051,1057,666,672
+StoneBoulder,1056,1065,777,786
+MeteorSite,1094,1124,724,739
+StonePlantMound4,1139,1146,664,671
+StonePlantMound,1217,1222,668,673
+StonePlantMound3,1276,1287,720,729
+StoneBoulder,1339,1348,826,835
+UndergroundCultChamber,1339,1371,741,783
+RLCraft_SmallUndergroundSkeleton,1224,1232,556,564
+RLCraft_DecentSkeleton,1270,1270,534,534
+RLCraft_UndergroundRuin3,1268,1276,529,537
+RLCraft_DecentSkeleton,1461,1461,697,697
+RLCraft_UndergroundRuin3,1459,1467,694,702
+P_IslandCity,1326,1632,487,821

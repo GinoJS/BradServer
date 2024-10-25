@@ -1,0 +1,5 @@
+StoneBoulder,-3401,-3392,9055,9064
+RLCraft_DecentWitch,-3378,-3378,8974,8974
+RLCraft_UndergroundRuin3,-3384,-3376,8969,8977
+StonePlantMound1,-3425,-3419,9124,9130
+RLCraft_SmallTown,-3463,-3392,9080,9155

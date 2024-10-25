@@ -1,0 +1,12 @@
+RLCraft_BasicSpider,-355,-355,4677,4677
+RLCraft_UndergroundRuin1,-361,-352,4671,4680
+StoneBoulder,-304,-295,4679,4688
+StonePlantMound3,-309,-298,4699,4708
+WoodThornBig,-387,-374,4615,4628
+StonePlantMound4,-275,-268,4660,4667
+RLCraft_DecentSpider,-331,-331,4730,4730
+RLCraft_UndergroundRuin2,-336,-326,4728,4735
+StoneLeafMound,-360,-351,4726,4733
+StonePlantMound1,-353,-347,4754,4760
+StonePlantMound4,-458,-451,4621,4628
+SmallOutpost,-449,-427,4618,4648

@@ -1,0 +1,6 @@
+StonePlantMound4,-8876,-8869,-9651,-9644
+DinosaurSkeleton,-8770,-8761,-9680,-9634
+P_VillageFarmhouse,-8890,-8878,-9586,-9574
+VillageTriplets,-8905,-8891,-9607,-9593
+ThreeTowers,-8890,-8859,-9547,-9515
+SeasonsGreenhouse,-8885,-8875,-9562,-9550

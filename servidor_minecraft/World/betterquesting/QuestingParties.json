@@ -1,0 +1,22 @@
+{
+  "parties:9": {
+    "0:10": {
+      "members:9": {
+        "0:10": {
+          "uuid:8": "e07d5991-9631-4635-8c14-2a8c3abad9bc",
+          "status:8": "MEMBER"
+        },
+        "1:10": {
+          "uuid:8": "0faf123b-986f-47ae-9826-cc5ea0e0fa94",
+          "status:8": "OWNER"
+        }
+      },
+      "partyID:3": 0,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "otakus"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,4 @@
+P_WizardTower,-5340,-5310,6320,6350
+P_Crater,-5353,-5277,6322,6405
+RLCraft_DecentWitch,-5476,-5476,6259,6259
+RLCraft_UndergroundRuin2,-5481,-5471,6257,6264

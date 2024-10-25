@@ -1,0 +1,7 @@
+OldWatchtower,-1569,-1556,-39,-27
+StoneLeafMound,-1582,-1575,-300,-291
+StonePlantMound,-1594,-1589,-227,-222
+SmallWoodenCottage1,-1641,-1630,-217,-211
+StonePlantBoulder,-1650,-1640,-258,-248
+RLCraft_DecentSkeleton,-1646,-1646,-396,-396
+RLCraft_UndergroundRuin2,-1651,-1644,-401,-391

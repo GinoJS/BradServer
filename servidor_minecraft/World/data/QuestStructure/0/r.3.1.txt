@@ -1,0 +1,16 @@
+UndergroundCrypt,1664,1678,567,595
+BrickHenge,1744,1760,734,750
+StonePlantMound2,1771,1783,747,760
+DinosaurSkull,1812,1831,614,625
+StonePlantMound1,1641,1647,765,771
+StoneLeafMound,1836,1843,667,676
+StoneLeafMound,1829,1838,526,533
+StonePlantMound1,1832,1838,771,777
+StonePlantMound3,1869,1878,723,734
+StonePlantMound1,1880,1886,773,779
+StonePlantMound2,1905,1917,513,526
+StoneBoulder,1927,1936,647,656
+ElvenPond,1927,1956,565,595
+ElvenPond,1933,1962,723,753
+StonePlantMound3,1966,1975,516,527
+WoodThorn,2032,2043,738,749

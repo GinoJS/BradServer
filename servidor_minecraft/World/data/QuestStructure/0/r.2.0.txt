@@ -1,0 +1,4 @@
+RLCraft_DecentSpider,1379,1379,505,505
+RLCraft_UndergroundRuin3,1374,1382,503,511
+RLCraft_DecentWitch,1438,1438,505,505
+RLCraft_UndergroundRuin2,1436,1443,500,510

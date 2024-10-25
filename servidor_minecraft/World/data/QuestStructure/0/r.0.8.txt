@@ -1,0 +1,3 @@
+StonePlantMound,-326,-321,4552,4557
+StoneBoulder,-345,-336,4513,4522
+RLCraft_RuinsParkour,-381,-289,4495,4595
